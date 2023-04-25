@@ -1,0 +1,15 @@
+E:\vs train\147.duilianbiaojinxingcharupaixu\147.duilianbiaojinxingcharupaixu\bin\Debug\net6.0\147.duilianbiaojinxingcharupaixu.exe
+E:\vs train\147.duilianbiaojinxingcharupaixu\147.duilianbiaojinxingcharupaixu\bin\Debug\net6.0\147.duilianbiaojinxingcharupaixu.deps.json
+E:\vs train\147.duilianbiaojinxingcharupaixu\147.duilianbiaojinxingcharupaixu\bin\Debug\net6.0\147.duilianbiaojinxingcharupaixu.runtimeconfig.json
+E:\vs train\147.duilianbiaojinxingcharupaixu\147.duilianbiaojinxingcharupaixu\bin\Debug\net6.0\147.duilianbiaojinxingcharupaixu.dll
+E:\vs train\147.duilianbiaojinxingcharupaixu\147.duilianbiaojinxingcharupaixu\bin\Debug\net6.0\147.duilianbiaojinxingcharupaixu.pdb
+E:\vs train\147.duilianbiaojinxingcharupaixu\147.duilianbiaojinxingcharupaixu\obj\Debug\net6.0\147.duilianbiaojinxingcharupaixu.csproj.AssemblyReference.cache
+E:\vs train\147.duilianbiaojinxingcharupaixu\147.duilianbiaojinxingcharupaixu\obj\Debug\net6.0\147.duilianbiaojinxingcharupaixu.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs train\147.duilianbiaojinxingcharupaixu\147.duilianbiaojinxingcharupaixu\obj\Debug\net6.0\147.duilianbiaojinxingcharupaixu.AssemblyInfoInputs.cache
+E:\vs train\147.duilianbiaojinxingcharupaixu\147.duilianbiaojinxingcharupaixu\obj\Debug\net6.0\147.duilianbiaojinxingcharupaixu.AssemblyInfo.cs
+E:\vs train\147.duilianbiaojinxingcharupaixu\147.duilianbiaojinxingcharupaixu\obj\Debug\net6.0\147.duilianbiaojinxingcharupaixu.csproj.CoreCompileInputs.cache
+E:\vs train\147.duilianbiaojinxingcharupaixu\147.duilianbiaojinxingcharupaixu\obj\Debug\net6.0\147.duilianbiaojinxingcharupaixu.dll
+E:\vs train\147.duilianbiaojinxingcharupaixu\147.duilianbiaojinxingcharupaixu\obj\Debug\net6.0\refint\147.duilianbiaojinxingcharupaixu.dll
+E:\vs train\147.duilianbiaojinxingcharupaixu\147.duilianbiaojinxingcharupaixu\obj\Debug\net6.0\147.duilianbiaojinxingcharupaixu.pdb
+E:\vs train\147.duilianbiaojinxingcharupaixu\147.duilianbiaojinxingcharupaixu\obj\Debug\net6.0\147.duilianbiaojinxingcharupaixu.genruntimeconfig.cache
+E:\vs train\147.duilianbiaojinxingcharupaixu\147.duilianbiaojinxingcharupaixu\obj\Debug\net6.0\ref\147.duilianbiaojinxingcharupaixu.dll
